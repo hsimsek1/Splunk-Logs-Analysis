@@ -28,8 +28,4 @@ In this section I will focus on the SIEM capabilities of Splunk and go through i
 To begin creating basic SPL commands, I will use a Splunk Index named **main** and a sourcetype called **csv** . 
 
 For starters I first search `index=main sourcetype=csv`:
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/hsimsek1/Splunk-Logs-Analysis/blob/main/dns-log-analysis/screenshots/38b5e7c0537535bb17aa6b2d657868e7.png
+https://github.com/hsimsek1/Splunk-Logs-Analysis/blob/main/dns-log-analysis/screenshots/38b5e7c0537535bb17aa6b2d657868e7.png
