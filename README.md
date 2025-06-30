@@ -29,4 +29,7 @@ To begin creating basic SPL commands, I will use a Splunk Index named **main** a
 
 For starters I first search `index=main sourcetype=csv`:
 
-![]([38b5e7c0537535bb17aa6b2d657868e7.png](https://github.com/hsimsek1/Splunk-Logs-Analysis/blob/main/dns-log-analysis/screenshots/38b5e7c0537535bb17aa6b2d657868e7.png))
+Reference-style: 
+![alt text][logo]
+
+[logo]: 38b5e7c0537535bb17aa6b2d657868e7.png](https://github.com/hsimsek1/Splunk-Logs-Analysis/blob/main/dns-log-analysis/screenshots/38b5e7c0537535bb17aa6b2d657868e7.png
